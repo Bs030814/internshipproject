@@ -1,0 +1,11 @@
+##run and create a python virtual enviroment
+python -m venv venv
+
+##activate
+venv\Scripts\activate
+
+##install 
+pip install fastapi passlib pyjwt sqlite3
+
+##generate requirement.txt
+pip freeze > requirements.txt
