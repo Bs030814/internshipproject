@@ -1,3 +1,4 @@
+## This page is how to activate the python virtual enviroment and how i install and generate the requirement.txt for window os.
 ##run and create a python virtual enviroment
 python -m venv venv
 
