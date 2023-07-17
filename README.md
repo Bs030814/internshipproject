@@ -5,6 +5,7 @@ For internship purpose only
 
 This project implements a simple login system with a backend server using FastAPI. It allows users to log in with a username and password, and provides token-based authentication using JSON Web Tokens (JWT). The backend server is built with FastAPI, and a basic frontend is included to demonstrate the login functionality.
 
+
 Features
 -User login with username and password
 -Token-based authentication using JWT
