@@ -2,7 +2,7 @@
 python -m venv venv
 
 ##activate
-venv\Scripts\activate
+source venv/bin/activate
 
 ##install 
 pip install fastapi passlib pyjwt sqlite3
