@@ -21,18 +21,18 @@ Installation
 git clone <repository-url>
 
 ##Navigate to the project directory:##
-  cd login-system-fastapi
+cd login-system-fastapi
 
 ##Create a virtual environment (On Windows):##
-  python -m venv venv
-  venv\Scripts\activate
+python -m venv venv
+venv\Scripts\activate
 
 ##On macOS and Linux:##
-  python3 -m venv venv
-  source venv/bin/activate
+python3 -m venv venv
+source venv/bin/activate
 
 ##Install the required packages:##
-  pip install -r requirements.txt
+pip install -r requirements.txt
 
 Usage
 1) Start the backend server:
